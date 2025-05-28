@@ -1,0 +1,30 @@
+---
+title: Orders
+---
+
+### How can we help you with Orders?
+
+import { Card, CardGrid } from '@astrojs/starlight/components';
+
+<CardGrid stagger>
+	<a href="/orders/search">
+    <Card title="Orders Search" icon="seti:happenings" iconBg="blue" iconText="blue">
+		Help with searching for and locating existing orders.
+	</Card></a>
+	<a href="/orders/details">
+    <Card title="Orders Details" icon="seti:odata" iconBg="blue" iconText="blue">
+		Help with viewing and understanding the details of your order.
+	</Card></a>
+	<a href="/orders/add_edit">
+    <Card title="Orders Add / Edit" icon="pencil" iconBg="blue" iconText="blue">
+		Help with creating a new order or editing a draft you saved.
+	</Card></a>
+	<a href="/orders/printoptions">
+    <Card title="Printing Orders" icon="document" iconBg="blue" iconText="blue">
+		Help with printing your orders or making labels.
+	</Card></a>
+	<a href="/orders/faq">
+    <Card title="Orders FAQ" icon="information" iconBg="blue" iconText="blue">
+		Frequently asked questions about orders.
+	</Card></a>
+</CardGrid>

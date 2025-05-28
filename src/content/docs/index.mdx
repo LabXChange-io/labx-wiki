@@ -1,36 +1,80 @@
 ---
-title: Welcome to Starlight
-description: Get started building your docs site with Starlight.
+title: <center>Welcome to the <br /><img src="/src/assets/LabXChangeLogoBlack.png"/><br /> Help Center</center>
+description: Get started breaking your docs site with Starlight.
+next: false
 template: splash
 hero:
-  tagline: Congrats on setting up a new Starlight project!
+  tagline: Your one stop destination for all available LabXChange resources.
   image:
-    file: ../../assets/houston.webp
+    file: ../../assets/LXStool.png
   actions:
-    - text: Example Guide
-      link: /guides/example/
-      icon: right-arrow
-    - text: Read the Starlight docs
-      link: https://starlight.astro.build
+    - text: Go to LabXChange
+      link: https://order.labxchange.io/auth
       icon: external
-      variant: minimal
+    - text: Help me log in
+      link: logging_in
+      icon: right-arrow
+    - text: Dashboard Help
+      link: dashboard
+      icon: seti:odata
+    - text: Providers Help
+      link: signorders
+      icon: seti:sass
 ---
 
 import { Card, CardGrid } from '@astrojs/starlight/components';
 
-## Next steps
+## What do you need assistance with?
 
 <CardGrid stagger>
-	<Card title="Update content" icon="pencil">
-		Edit `src/content/docs/index.mdx` to see this page change.
-	</Card>
-	<Card title="Add new content" icon="add-document">
-		Add Markdown or MDX files to `src/content/docs` to create new pages.
-	</Card>
-	<Card title="Configure your site" icon="setting">
-		Edit your `sidebar` and other config in `astro.config.mjs`.
-	</Card>
-	<Card title="Read the docs" icon="open-book">
-		Learn more in [the Starlight Docs](https://starlight.astro.build/).
-	</Card>
+	<a href="account">
+	<Card title="My Account" icon="seti:config" class="card" style="--sl-card-border: var(--sl-color-green); --sl-card-bg: var(--sl-color-purple-low);">
+		<div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+			<img src='/src/assets/LXLogo.png' alt="LX Logo" style="height: 25px;"/><span>The settings and options available to my account.</span>
+		</div>
+	</Card></a>
+	<a href="patients">
+	<Card title="Patients" icon="gitter" class="card" style="--sl-card-border: var(--sl-color-green); --sl-card-bg: var(--sl-color-purple-low);">
+		<div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+			<img src='/src/assets/LXLogo.png' alt="LX Logo" style="height: 25px;"/><span>Adding, Editing, Viewing patient records.</span>
+		</div>
+	</Card></a>
+	<a href="orders">
+	<Card title="Orders" icon="pen">
+		<div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+			<img src='/src/assets/LXLogo.png' alt="LX Logo" style="height: 25px;"/><span>Creating, Editing, Viewing or Printing Orders</span>
+		</div>		
+	</Card></a>
+	<a href="results">
+	<Card title="Results" icon="approve-check-circle">
+		<div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+			<img src='/src/assets/LXLogo.png' alt="LX Logo" style="height: 25px;"/><span>Recieving, Reviewing results.</span>
+		</div>		
+	</Card></a>
+	<a href="admin">
+	<Card title="Admin" icon="codePen">
+		<div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+			<img src='/src/assets/LXLogo.png' alt="LX Logo" style="height: 25px;"/><span>Admin accessible sections of the portal.</span>
+		</div>		
+	</Card></a>	
+	<a href="appointments">
+	  <Card title="Appointments" icon="pnpm">
+		<div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+			<img src='/src/assets/LXLogo.png' alt="LX Logo" style="height: 25px;"/><span>Entering, Editing, or Revewing Appointments</span>
+		</div>		
+	</Card></a>
+	<a href="biometrics">
+	  <Card title="Biometrics" icon="seti:bower">
+		<div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+			<img src='/src/assets/LXLogo.png' alt="LX Logo" style="height: 25px;"/><span> Entering, Editing, or Revewing Biometrics.</span>
+		</div>		
+	</Card></a>
+	<a href="resources">
+    <Card title="Resources" icon="information">
+		<div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+			<img src='/src/assets/LXLogo.png' alt="LX Logo" style="height: 25px;"/><span>Additional resources, such as the FAQ, Dictionaries, Quick Start Guide and Troubleshooting.</span>
+		</div>		
+	</Card></a>
+
+	
 </CardGrid>

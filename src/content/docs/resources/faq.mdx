@@ -1,0 +1,174 @@
+---
+title: FAQ
+---
+import config from 'virtual:starlight/user-config';
+import Icon from '/node_modules/@astrojs/starlight/user-components/Icon.astro'; 
+
+### Frequently asked Questions about LabxChange: 
+<br /> 
+<div style="display: flex; gap: 10px;">
+    <a href="/patients/faq" style="text-decoration: none;">
+        <button style="display: flex; align-items: center; background-color: #0078D4; color: white; border: none; padding: 5px 12px; border-radius: 5px; cursor: pointer;">
+            <div style="display: flex; align-items: center; gap: 10px;"><Icon name="gitter" /> Patients FAQ</div>
+         </button>
+    </a>
+    <a href="/orders/faq" style="text-decoration: none;">
+        <button style="display: flex; align-items: center; background-color: #0078D4; color: white; border: none; padding: 5px 12px; border-radius: 5px; cursor: pointer;">
+            <div style="display: flex; align-items: center; gap: 10px;"><Icon name="pen" /> Orders FAQ</div>
+        </button>
+    </a>
+    <a href="/results/faq" style="text-decoration: none;">
+        <button style="display: flex; align-items: center; background-color: #0078D4; color: white; border: none; padding: 5px 12px; border-radius: 5px; cursor: pointer;">
+            <div style="display: flex; align-items: center; gap: 10px;"><Icon name="approve-check-circle" /> Results FAQ</div>
+        </button>
+    </a>
+    <a href="/admin/faq" style="text-decoration: none;">
+        <button style="display: flex; align-items: center; background-color: #0078D4; color: white; border: none; padding: 5px 12px; border-radius: 5px; cursor: pointer;">
+            <div style="display: flex; align-items: center; gap: 10px;"><Icon name="codePen" /> Admin FAQ</div>
+        </button>
+    </a>
+</div>
+<div style="display: flex; gap: 10px;">
+    <a href="/appointments/faq" style="text-decoration: none;">
+        <button style="display: flex; align-items: center; background-color: #0078D4; color: white; border: none; padding: 5px 12px; border-radius: 5px; cursor: pointer;">
+            <div style="display: flex; align-items: center; gap: 10px;"><Icon name="pnpm" /> Appointment FAQ</div>
+        </button>
+    </a>
+     <a href="/biometrics/faq" style="text-decoration: none;">
+        <button style="display: flex; align-items: center; background-color: #0078D4; color: white; border: none; padding: 5px 12px; border-radius: 5px; cursor: pointer;">
+            <div style="display: flex; align-items: center; gap: 10px;"><Icon name="seti:bower" /> Biometrics FAQ</div>
+        </button>
+    </a>
+</div>
+
+<br />
+
+**General Information**
+<br /><br />
+<b><u>What is the LabXchange Dev Environment?</u></b>
+<br /><br />
+The LabXchange Dev Environment is a testing and staging platform used for managing laboratory data, patient records, and test results. It is used primarily by staff users and client administrators to review and manage relevant data.
+<br /><br />
+<b><u>Who has access to the platform?</u></b>
+<br /><br />
+- Staff Users: Limited access to the Dashboard, Patients, Orders, and Results.
+<br /><br />
+- Client Administrators: Full access, including additional administrative settings and user management.
+<hr />
+<b>Staff Users</b>
+<br /><br />
+<b><u>What pages can I access as a staff user?</u></b>
+<br /><br />
+Staff users can access the following sections:
+<br /><br />
+- Dashboard – Overview of key data and system notifications.
+<br />
+- Patients – List of patients and associated details.
+<br />
+- Orders – Overview and management of test orders.
+<br />
+- Results – View test results and related reports.
+<br /><br />
+<b><u>What should I do if I can’t find a patient, order, or test result?</u></b>
+<br /><br />
+Staff users should first verify that they are using the correct search parameters. If the data is still missing, reach out to your client administrator, as they have higher-level access to investigate the issue.
+<br /><br />
+<b><u>Can I modify test results or patient records?</u></b>
+<br /><br />
+No. Staff users can only view results and patient records. Any modifications must be handled by client administrators or authorized personnel.
+<br /><br />
+<b><u>Who do I contact for technical issues?</u></b>
+<br /><br />
+Staff users should first contact their client administrator for any issues related to missing data, access problems, or system errors. If the client administrator is unable to resolve the issue, they will escalate it to LabXchange Support (support@labxchange.io).
+<br /><br /><hr />
+<b>Client Administrators</b>
+<br /><br />
+<b><u>What additional pages do client admins have access to?</u></b>
+<br /><br />
+Client admins have access to all pages, including:
+<br /><br />
+- Organizations – Manage organizations within the system.
+<br />
+- Locations – Configure and manage site locations.
+<br />
+- Providers – Maintain provider information and associations.
+<br />
+- Diagnosis Codes – Manage ICD-10 or other diagnosis codes for billing and test ordering.
+<br />
+- Tests – Configure and manage test types available in the system.
+<br />
+- Insurances – Manage insurance providers and coverage details.
+<br />
+- Medications – Configure medication data for use in patient records.
+<br />
+- AOEs (At Order Entry Questions) – Customize required questions at the time of order entry.
+<br />
+- User Management – Add, modify, and deactivate user accounts.
+<br />
+- Site Banners & Notifications – Configure system-wide notifications and alerts.
+<br /><br />
+<b><u>How can I add or remove a staff user?</u></b>
+<br /><br />
+Client admins can manage user accounts via the User Management section. To add a new staff user:
+<br /><br />
+1. Navigate to User Management.
+<br /><br />
+2. Click Add New User.
+<br /><br />
+3. Fill in the required details and assign the appropriate role.
+<br /><br />
+4. Save changes.
+<br /><br />
+To deactivate a user, select their account and choose Deactivate.
+<br /><br />
+<b><u>How do I troubleshoot missing data or incorrect test results?</u></b><br /><br />
+1. Verify if the data exists in the system under a different search term.
+<br />
+2. Check audit logs for recent changes or deletions.
+<br />
+3. Confirm with staff users that the data entry process was followed correctly.
+<br />
+4. If you are unable to resolve the issue, contact LabXchange Support (support@labxchange.io) with detailed information.
+<br /><br />
+<b><u>What should I do if I encounter a system bug or technical issue?</u></b>
+<br /><br />
+- Try clearing your cache and reloading the page.
+<br />
+- Check if other admins or staff users are experiencing the same issue.
+<br />
+- If the issue persists, document any error messages and contact your client admin, or support@labxchange.io if you are the client admin.
+<br /><br /><hr />
+<b>Technical Troubleshooting</b><br /> Please review our 
+<a href="\resources\troubleshooting">Trouble Shooting and Tech Support Page</a> for any issues not covered below:
+<br /><br />
+<b><u>The system is not loading properly. What should I do?</u></b>
+<br />
+1. Refresh the page.
+<br />
+2. Clear your browser cache and cookies.
+<br />
+3. Try using a different browser (Chrome, Firefox, Edge, Safari).
+<br />
+4. Ensure your internet connection is stable.
+<br />
+5. If the problem persists, contact your client administrator or support.
+<br /><br />
+<b><u>I forgot my password. How do I reset it?</u></b>
+<br /><br />
+1. On the login page, click Forgot Password.
+<br />
+2. Enter your registered email.
+<br />
+3. Follow the password reset instructions sent to your email.
+<br />
+_My access level is incorrect. How can I fix this?_
+<br /><br />
+- Staff users should contact their client administrator.
+<br />
+- Client administrators can update user roles in User Management.
+<br />
+- If access issues persist, client admins should contact support@labxchange.io.
+<br /><br />
+For additional assistance, try our <a href="\resources\troubleshooting">Trouble Shooting and Tech Support Page</a> and client admins may also contact LabXchange Support at support@labxchange.io.
+
+

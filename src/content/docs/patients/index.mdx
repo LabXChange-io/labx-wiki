@@ -1,0 +1,31 @@
+---
+title: Patients
+description: This doesn't show up anywhere.
+---
+
+### How can we help you with Patients?
+
+import { Card, CardGrid } from '@astrojs/starlight/components';
+
+<CardGrid stagger>
+	<a href="/patients/search">
+    <Card title="Search Patients" icon="seti:happenings">
+		Help with searching / finding a patient.
+	</Card></a>
+	<a href="/patients/details">
+    <Card title="Patient Details" icon="gitter">
+		Help with viewing / verifying patient details.
+	</Card></a>
+	<a href="/patients/add_edit">
+    <Card title="Add or Edit Patients" icon="pencil">
+		Help with adding or editing a patient record.
+	</Card></a>
+	<a href="/patients/import">
+    <Card title="Patients Import" icon="seti:code-climate">
+		Help with importing a CSV file of patients.
+	</Card></a>
+	<a href="/patients/faq">
+    <Card title="Patients FAQ" icon="information">
+		Frequently asked questions about patients.
+	</Card></a>
+</CardGrid>
