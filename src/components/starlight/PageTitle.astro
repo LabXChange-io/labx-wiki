@@ -3,7 +3,7 @@ import { PAGE_TITLE_ID } from '../constants';
 ---
 
 <img src='/LXLogo.png' alt="LX Logo" class="logo" />
-<span id={PAGE_TITLE_ID} class="pageHead">{Astro.props?.title || 'Default Title'}</span>
+<span id={PAGE_TITLE_ID} class="pageHead">{Astro.locals.starlightRoute.entry.data.title}</span>
 
 <style>
 	@layer starlight.core {
