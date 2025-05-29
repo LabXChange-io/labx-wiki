@@ -2,9 +2,15 @@
 title: Biometrics Search
 ---
 
-Guides lead a user through a specific task they want to accomplish, often with a sequence of steps.
-Writing a good guide requires thinking about what your users are trying to do.
+<hr />
 
-## Further reading
+#### This is where users can manage the Biometrics that ahve been created for their patients.
 
-- Read [about how-to guides](https://diataxis.fr/how-to-guides/) in the Diátaxis framework
+![Dashboard Screenshot](/src/assets/screenPrints/BioSearch.png)
+
+- **A.** Search for created Biometrics by patient name or email.
+- **B.** This button opens the tool to [Create a new Biometric](/biometrics/add_edit/).
+- **C.** This ... has the options to [Edit a Biometric](/biometrics/add_edit/) or [View a PDF of it](/biometrics/details/).
+
+<br />
+<hr />

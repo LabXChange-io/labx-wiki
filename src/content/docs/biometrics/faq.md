@@ -3,5 +3,4 @@ title: Biometrics FAQ
 
 ---
 
-
-test text
+<img src="/src/assets/comingSoon.png" alt="New Account Screenshot" style="width:25%;">

@@ -7,19 +7,23 @@ title: Appointments
 import { Card, CardGrid } from '@astrojs/starlight/components';
 
 <CardGrid stagger>
-	<a href="appointments/search">
+	<a href="/appointments/search">
     <Card title="Search Appointments" icon="seti:happenings">
 		Help with searching / finding an appointment.
 	</Card></a>
-	<a href="appointments/details">
+	<a href="/appointments/checkin">
+    <Card title="Appointment Check In" icon="approve-check">
+		Help with checking in for an appointment.
+	</Card></a>
+	<a href="/appointments/details">
     <Card title="Appointment Details" icon="pnpm">
 		Help with viewing / verifying appointments details.
 	</Card></a>
-	<a href="appointments/add_edit">
+	<a href="/appointments/add_edit">
     <Card title="Add or Edit Patients" icon="pencil">
 		Help with adding or editing a appointments record.
 	</Card></a>
-	<a href="appointments/faq">
+	<a href="/appointments/faq">
     <Card title="Appointments FAQ" icon="information">
 		Frequently asked questions about appointments.
 	</Card></a>

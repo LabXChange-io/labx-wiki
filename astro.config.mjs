@@ -84,6 +84,7 @@ export default defineConfig({
 					items: [
 						{ label: 'Appointments Help', slug: 'appointments' },
 						{ label: 'Appointments Search', slug: 'appointments/search' },
+						{ label: 'Appointment Check In', slug: 'appointments/checkin' },
 						{ label: 'Appointments Details', slug: 'appointments/details' },
 						{ label: 'Appointments Add/Edit', slug: 'appointments/add_edit' },
 						{ label: 'Appointments FAQ', slug: 'appointments/faq' },
