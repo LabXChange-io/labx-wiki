@@ -1,0 +1,23 @@
+---
+import { PAGE_TITLE_ID } from '../constants';
+---
+
+<img src='/LXLogo.png' alt="LX Logo" class="logo" />
+<span id={PAGE_TITLE_ID} class="pageHead">{Astro.props?.title || 'Default Title'}</span>
+
+<style>
+	@layer starlight.core {
+		.pageHead {
+			font-size: var(--sl-text-h1);
+			line-height: var(--sl-line-height-headings);
+			font-weight: 600;
+			color: var(--sl-color-white);			
+			padding-left: 1rem;
+		}
+	}
+	.logo {
+    height: 35px;	
+  }
+</style>
+  
+  
