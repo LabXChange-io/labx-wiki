@@ -8,7 +8,7 @@ title: Providers
 
 ##### Provider Search:
 
-![Dashboard Screenshot](/src/assets/screenPrints/providerSearch.png)
+![Dashboard Screenshot](/screenPrints/ProviderSearch.png)
 
 - **A.** Providers can be filtered to Active or Inactive, as well as viewing all.
 - **B.** Fuzzy search the Providers by name.
@@ -23,7 +23,7 @@ title: Providers
 ##### Provider Create / Update:
 ##### Note: a red <b style="color: red;">*</b> indicates a required field that needs to be completed to proceed.
 
-![Dashboard Screenshot](/src/assets/screenPrints/providerEdit.png)
+![Dashboard Screenshot](/screenPrints/ProviderEdit.png)
 
 - **A.** This flag will override the NPI look up so the first, last and address can be entered manually.
 - **B.** If the override is not used, then putting in the provider NPI and using lookup will automatically populate the first, last and address of the provider.

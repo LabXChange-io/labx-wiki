@@ -4,4 +4,4 @@ title: Orders FAQ
 ---
 
 
-<img src="/src/assets/comingSoon.png" alt="New Account Screenshot" style="width:25%;">
+<img src="/comingSoon.png" alt="New Account Screenshot" style="width:25%;">

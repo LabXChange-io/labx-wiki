@@ -9,7 +9,7 @@ title: AOEs (At Order Entry questions)
 
 ##### AOE Search:
 
-![Dashboard Screenshot](/src/assets/screenPrints/AOEsSearch.png)
+![Dashboard Screenshot](/screenPrints/AOEsSearch.png)
 
 - **A.** AOEs can be searched for by name.
 - **B.** Create a new AOE list with this option. (see below)
@@ -22,7 +22,7 @@ title: AOEs (At Order Entry questions)
 ##### AOE Create / Update:
 ##### Note: a red <b style="color: red;">*</b> indicates a required field that needs to be completed to proceed.
 
-![Dashboard Screenshot](/src/assets/screenPrints/AOEsEdit1.png)
+![Dashboard Screenshot](/screenPrints/AOEsEdit1.png)
 
 - **A.** The top section is the AOE List itself, including the unique name, all locations these questions apply to, and which tests trigger them.
 - **B.** The lower section is all the questions that are part of this list of AOEs.
@@ -35,7 +35,7 @@ title: AOEs (At Order Entry questions)
 - **I.** Certain question types, like this numerical one shown, have the option to enforce limitations on the acceptible data range for the response.
 - **J.** All changes can be confirmed and saved with this button in the lower right.
 
-![Dashboard Screenshot](/src/assets/screenPrints/AOEsEdit2.png)
+![Dashboard Screenshot](/screenPrints/AOEsEdit2.png)
 
 - **D.** These are the available 'answer types' to choose from when using option D. in the screen above.
 

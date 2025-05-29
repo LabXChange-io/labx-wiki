@@ -9,7 +9,7 @@ title: Medications
 
 ##### Medication Search:
 
-![Dashboard Screenshot](/src/assets/screenPrints/MedsSearch.png)
+![Dashboard Screenshot](/screenPrints/MedsSearch.png)
 
 - **A.** Medications can be filtered to Active or Inactive, as well as viewing all.
 - **B.** Search Medications by name or code.
@@ -25,7 +25,7 @@ title: Medications
 ##### Medication Create / Update:
 ##### Note: a red <b style="color: red;">*</b> indicates a required field that needs to be completed to proceed.
 
-![Dashboard Screenshot](/src/assets/screenPrints/MedsEdit.png)
+![Dashboard Screenshot](/screenPrints/MedsEdit.png)
 
 - **A.** A new medication entry needs a unique name and code.
 - **B.** The organization comes from the page header.

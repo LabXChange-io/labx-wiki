@@ -8,7 +8,7 @@ title: Organizations
 
 ##### Organization Search:
 
-![Dashboard Screenshot](/src/assets/screenPrints/orgSearch.png)
+![Dashboard Screenshot](/screenPrints/OrgSearch.png)
 
 - **A.** Organizations can be filtered to Active or Inactive, as well as viewing all.
 - **B.** Fuzzy search for a specific organization name.
@@ -22,7 +22,7 @@ title: Organizations
 ##### Organization Create / Update:
 ##### Note: a red <b style="color: red;">*</b> indicates a required field that needs to be completed to proceed.
 
-![Dashboard Screenshot](/src/assets/screenPrints/orgEdit.png)
+![Dashboard Screenshot](/screenPrints/OrgEdit.png)
 
 - **A.** A unique name for the organization is required.
 - **B.** The rest of the fields are optional billing and contact information for the organization.

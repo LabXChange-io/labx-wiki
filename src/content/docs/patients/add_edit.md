@@ -9,8 +9,8 @@ title: Patient Add/Edit
 <hr />
 
 #### Basic Information:
-![AddUpPatient](/src/assets/screenPrints/Patient_Add1.png)
-![AddUpPatient](/src/assets/screenPrints/Patient_Add5.png)
+![AddUpPatient](/screenPrints/Patient_Add1.png)
+![AddUpPatient](/screenPrints/Patient_Add5.png)
 
 
 - **A.** This is the progress bar to show the current position in the work flow.
@@ -27,7 +27,7 @@ title: Patient Add/Edit
 <hr />
 
 #### Guarantor Information:
-![AddUpPatient](/src/assets/screenPrints/Patient_Add2.png)
+![AddUpPatient](/screenPrints/Patient_Add2.png)
 
 - **A.** This is Guarantor information section - it's autopopulated with the information entered for the patient, but if the patient is not the guarantor (the primary on the insurance), then any changes can be made here.
 - **B.** Note, the cancel button is now on the left.
@@ -37,7 +37,7 @@ title: Patient Add/Edit
 <hr />
 
 #### Insurance Information:
-![AddUpPatient](/src/assets/screenPrints/Patient_Add3.png)
+![AddUpPatient](/screenPrints/Patient_Add3.png)
 
 - **A.** This is the insurance information section where the patient's primary insurance provider information can be added.
 - **B.** If a patient has secondary insurance, this button will display a second set of fields for the secondary insurance data.
@@ -47,7 +47,7 @@ title: Patient Add/Edit
 <hr />
 
 #### Summary:
-![AddUpPatient](/src/assets/screenPrints/Patient_Add4.png)
+![AddUpPatient](/screenPrints/Patient_Add4.png)
 
 - **A.** This is the final screen, for review and confimration of all data entered on the previous three screens.
 - **B.** If any mistakes are noted, there is an Edit option for each section to quickly make corrections.

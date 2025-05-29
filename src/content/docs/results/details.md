@@ -4,7 +4,7 @@ title: Result Details
 
 #### The Results Details page is where you can search review all of the details returned for a given result or results.
 
-![Result Search](/src/assets/screenPrints/ResultsDetails.png)
+![Result Search](/screenPrints/ResultsDetails.png)
 
 - **A.** This panel, if expanded, provides some specific patient information.
     - If the patient hasn't been matched, there will be less data showing and a Match Patient button to manually make the connection with.
@@ -22,7 +22,7 @@ title: Result Details
 - **K.** Toggle the Reviewed Status of this result.
 - **L.** View the available history of this result. (see second below)
 
-![Result Search](/src/assets/screenPrints/ResultsDetails2.png)
+![Result Search](/screenPrints/ResultsDetails2.png)
 
 - **A.** The left panel shows the current result data, including the matched patient and tests resulted.
 - **B.** The right panel is for finding an existing order in the system to match up to the result.
@@ -32,7 +32,7 @@ title: Result Details
 - **E.** This button accepts the chosen order as matching this result and updates the records to reflect this.
 - **F.** If no matching orders can be located, then this button is a quick shortcut to the [Create Orders Page](/orders/add_edit/) to go add a matching order.
 
-<img src="/src/assets/screenPrints/ResultsDetails3.png" alt="Result Search" width="300px">
+<img src="/screenPrints/ResultsDetails3.png" alt="Result Search" width="300px">
 
 - **A.** This history log shows specific details about who placed the order and when.
 - **B.** It also logs the user interactions with the results.

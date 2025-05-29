@@ -9,7 +9,7 @@ title: Insurances
 
 ##### Insurance Search:
 
-![Dashboard Screenshot](/src/assets/screenPrints/InsuranceSearch.png)
+![Dashboard Screenshot](/screenPrints/InsuranceSearch.png)
 
 - **A.** Insurances can be filtered to Active or Inactive, as well as viewing all.
 - **B.** Search insurance by name or code.
@@ -24,7 +24,7 @@ title: Insurances
 ##### Insurance Create / Update:
 ##### Note: a red <b style="color: red;">*</b> indicates a required field that needs to be completed to proceed.
 
-![Dashboard Screenshot](/src/assets/screenPrints/InsuranceEdit.png)
+![Dashboard Screenshot](/screenPrints/InsuranceEdit.png)
 
 - **A.** Specify the required information for insurance, such as a unique name, code and class.
 - **B.** Trading partners have the option to manage what is available within the drop down. (see below)
@@ -32,7 +32,7 @@ title: Insurances
 
 <br />
 
-![Dashboard Screenshot](/src/assets/screenPrints/InsuranceEdit2.png)
+![Dashboard Screenshot](/screenPrints/InsuranceEdit2.png)
 
 - **A.** Search if the needed trading partner already exists.
 - **B.** Add it in, if it does not. (see below)
@@ -41,7 +41,7 @@ title: Insurances
 
 <br />
 
-![Dashboard Screenshot](/src/assets/screenPrints/InsuranceEdit3.png)
+![Dashboard Screenshot](/screenPrints/InsuranceEdit3.png)
 
 - **A.** Set a unique name.
 - **B.** Set a uniuque Id.

@@ -9,7 +9,7 @@ title: Diagnosis Codes
 
 ##### Diagnosis Codes Search:
 
-![Dashboard Screenshot](/src/assets/screenPrints/DXCodesSearch.png)
+![Dashboard Screenshot](/screenPrints/DXCodesSearch.png)
 
 - **A.** Diagnosis Codes can be filtered to Active or Inactive, as well as viewing all.
 - **B.** The DX Codes can be searched by code or description.

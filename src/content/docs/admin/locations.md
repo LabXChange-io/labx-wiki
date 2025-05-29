@@ -8,7 +8,7 @@ title: Locations
 
 ##### Location Search:
 
-![Screenshot](/src/assets/screenPrints/locSearch.png)
+![Screenshot](/screenPrints/LocSearch.png)
 
 - **A.** Locations can be filtered to Active or Inactive, as well as viewing all.
 - **B.** Tabs allow switching between locations and location groups. (see below)
@@ -24,7 +24,7 @@ title: Locations
 ##### Location Create / Update:
 ##### Note: a red <b style="color: red;">*</b> indicates a required field that needs to be completed to proceed.
 
-![Screenshot](/src/assets/screenPrints/locEdit.png)
+![Screenshot](/screenPrints/LocEdit.png)
 
 - **A.** A unique location name and ID are required.
 - **B.** Optional location contact information.
@@ -45,7 +45,7 @@ title: Locations
 
 ##### Location Group Search:
 
-![Screenshot](/src/assets/screenPrints/locGroup1.png)
+![Screenshot](/screenPrints/LocGroup1.png)
 
 - **A.** The tab is now set to Location Groups
 - **B.** Location groups can be filtered to Active or Inactive, as well as viewing all, same as the locations.
@@ -59,7 +59,7 @@ title: Locations
 ##### Location Group Create / Update:
 ##### Note: a red <b style="color: red;">*</b> indicates a required field that needs to be completed to proceed.
 
-![Screenshot](/src/assets/screenPrints/locGroup2.png)
+![Screenshot](/screenPrints/LocGroup2.png)
 
 - **A.** Location group requires a unique name.
 - **B.** Organization comes from the page header.

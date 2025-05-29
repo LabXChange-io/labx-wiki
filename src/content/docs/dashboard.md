@@ -3,7 +3,7 @@ title: Dashboard
 ---
 
 #### The dashboard is the initial screen you start on after logging in:
-![Dashboard Screenshot](/src/assets/screenPrints/dashboard.png)
+![Dashboard Screenshot](/screenPrints/dashboard.png)
 <br />
 
 

@@ -9,7 +9,7 @@ title: Biometrics Add/Edit
 
 ##### Patient Selection:
 
-![Dashboard Screenshot](/src/assets/screenPrints/Bio1.png)
+![Dashboard Screenshot](/screenPrints/Bio1.png)
 
 - **A.** Much like [Creating an order](/orders/add_edit/), the Orgnizaion and Location have to be specified first, before a patient can be chosen.
 - **B.** This field allows for searching and selecting a patient - after selection, a confirmation dialog will automatically display. (see below)
@@ -18,7 +18,7 @@ title: Biometrics Add/Edit
 <br />
 
 ##### This is the same patient preview dialog as we see when [Creating an order](/orders/add_edit/) -
-![Dashboard Screenshot](/src/assets/screenPrints/Bio2.png)
+![Dashboard Screenshot](/screenPrints/Bio2.png)
 
 - **A.** This indicator shows whether this patient's demographic information has been verified yet.
 - **B.** There is a short cut to jump to [Patient Editing](/patients/add_edit/) if anything on this preview needs to be uodated.
@@ -32,7 +32,7 @@ title: Biometrics Add/Edit
 
 ##### Patient Information:
 
-![Dashboard Screenshot](/src/assets/screenPrints/Bio3.png)
+![Dashboard Screenshot](/screenPrints/Bio3.png)
 
 - **A.** The top sections are to fill in / confirm the personal, work, and contact information for the patient this Biometric screening is for.  
     - Much of this gets auto-populated with the information passed in for the selected patient.
@@ -46,7 +46,7 @@ title: Biometrics Add/Edit
 
 ##### Biometric Screening:
 
-![Dashboard Screenshot](/src/assets/screenPrints/Bio4.png)
+![Dashboard Screenshot](/screenPrints/Bio4.png)
 
 - **A.** This is the screen to fill in all of the data for the actual Biometric screening.
 - **B.** After ensuring all data is entered as needed, this button permits continuing with the work flow.
@@ -57,7 +57,7 @@ title: Biometrics Add/Edit
 
 ##### Review and Submit:
 
-![Dashboard Screenshot](/src/assets/screenPrints/Bio5.png)
+![Dashboard Screenshot](/screenPrints/Bio5.png)
 
 - **A.** This screen permits reviewing of all entered data for confirmation before saving.
 - **B.** There are short cut buttons to edit each section if something needs to be updated.

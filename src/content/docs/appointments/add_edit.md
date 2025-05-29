@@ -10,7 +10,7 @@ title: Appointment Add/Edit
 
 
 ##### Schedule:
-![Dashboard Screenshot](/src/assets/screenPrints/AptBook1.png)
+![Dashboard Screenshot](/screenPrints/AptBook1.png)
 
 - **A.** This is the progress bar for creating the appointment.
 - **B.** This is the location where the appointment will take place.
@@ -20,14 +20,14 @@ title: Appointment Add/Edit
 - **E.** The 'Next' button proceeds with the work flow after an appointment timeslot has been chosen.
 
 ##### Pre-Registration:
-![Dashboard Screenshot](/src/assets/screenPrints/AptBook2.png)
+![Dashboard Screenshot](/screenPrints/AptBook2.png)
 
 - **A.** In this step, the personal, work, and contact information for the patient gets filled in.
 - **B.** A number of basic health questions are responded to as well.
 - **C.** There is also a flag here for tracking when a patient is currently a Proactive MD primary care patient.
 
-##### Review aand Submit:
-![Dashboard Screenshot](/src/assets/screenPrints/AptBook3.png)
+##### Review and Submit:
+![Dashboard Screenshot](/screenPrints/AptBook3.png)
 
 - **A.** This screen confirms all the entered data and has the usual shortcuts for editing if need be.
 - **B.** This flag is to accept the terms and conditions, it's required to click accept to proceed.

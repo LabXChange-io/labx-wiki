@@ -4,7 +4,7 @@ title: Order Details
 ---
 
 #### This screen displays all the relevant data for an order, including the patient demographics, insurance, tests and AOEs:
-![Order Screenshot](/src/assets/screenPrints/Order_Details.png)
+![Order Screenshot](/screenPrints/Order_Details.png)
 
 - **A.** This button is to view the Advanced Beneficiary Notice (ABN) when available.
 - **B.** This button opens the dialog for the [Order Print Options](/orders/printoptions/).

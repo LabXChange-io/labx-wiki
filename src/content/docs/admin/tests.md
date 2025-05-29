@@ -9,7 +9,7 @@ title: Tests
 
 ##### Test Search:
 
-![Dashboard Screenshot](/src/assets/screenPrints/testsSearch.png)
+![Dashboard Screenshot](/screenPrints/TestsSearch.png)
 
 - **A.** Tests can be filtered to Active or Inactive, as well as viewing all.
 - **B.** Toggle between the test and test groups with these tabs.
@@ -25,7 +25,7 @@ title: Tests
 ##### Test Create / Update:
 ##### Note: a red <b style="color: red;">*</b> indicates a required field that needs to be completed to proceed.
 
-![Dashboard Screenshot](/src/assets/screenPrints/testEdit1.png)
+![Dashboard Screenshot](/screenPrints/TestEdit1.png)
 
 - **A.** A test needs a unique name and code.
 - **B.** Several types of data offer a dialog to review the avilable options. (see below)
@@ -37,7 +37,7 @@ title: Tests
 
 <br />
 
-![Dashboard Screenshot](/src/assets/screenPrints/testEdit2.png)
+![Dashboard Screenshot](/screenPrints/TestEdit2.png)
 ##### This is one example of a dialog for managing the options in a drop down:
 - **A.** Search the options by name.
 - **B.** Add a new option if what is needed is not available.
@@ -51,7 +51,7 @@ title: Tests
 
 ##### Test Group Search:
 
-![Dashboard Screenshot](/src/assets/screenPrints/testsSearch2Group.png)
+![Dashboard Screenshot](/screenPrints/TestsSearch2Group.png)
 
 - **A.** The Test Groups tab is now active.
 - **B.** The groups can be searched by name.
@@ -64,7 +64,7 @@ title: Tests
 ##### Test Group Create / Update:
 ##### Note: a red <b style="color: red;">*</b> indicates a required field that needs to be completed to proceed.
 
-![Dashboard Screenshot](/src/assets/screenPrints/testEdit2Group.png)
+![Dashboard Screenshot](/screenPrints/TestEdit2Group.png)
 
 - **A.** The group needs a unique name.
 - **B.** The organization is set in the page header.

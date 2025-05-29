@@ -5,7 +5,7 @@ title: Patient Import
 #### This is the work flow for uploading a CSV (comma delineated file) of patient records:
 
 ##### Upload File:
-![Dashboard Screenshot](/src/assets/screenPrints/Patient_import1.png)
+![Dashboard Screenshot](/screenPrints/Patient_Import1.png)
 <br />
 
 - **A.** Progress bar of the work flow.
@@ -19,7 +19,7 @@ title: Patient Import
 <br />
 
 ##### Select Header Row:
-![Dashboard Screenshot](/src/assets/screenPrints/Patient_import2.png)
+![Dashboard Screenshot](/screenPrints/Patient_Import2.png)
 <br />
 
 - **A.** This is a grid of the data found in the CSV file for review / confimration.
@@ -31,7 +31,7 @@ title: Patient Import
 <br />
 
 ##### Match Columns:
-![Dashboard Screenshot](/src/assets/screenPrints/Patient_import3.png)
+![Dashboard Screenshot](/screenPrints/Patient_Import3.png)
 <br />
 
 - **A.** This is a list of the columns based on header in the uploaded CSV.
@@ -46,7 +46,7 @@ title: Patient Import
 <br />
 
 ##### Validate Data:
-![Dashboard Screenshot](/src/assets/screenPrints/Patient_import4.png)
+![Dashboard Screenshot](/screenPrints/Patient_Import4.png)
 <br />
 
 - **A.** Select / Deselect all rows.
@@ -62,7 +62,7 @@ title: Patient Import
 <br />
 
 ##### Confirmation:
-![Dashboard Screenshot](/src/assets/screenPrints/Patient_import5.png)
+![Dashboard Screenshot](/screenPrints/Patient_Import5.png)
 <br />
 
 - **A.**  Confirmation status of the results of the validation process.
@@ -74,7 +74,7 @@ title: Patient Import
 <br />
 
 ##### Result:
-![Dashboard Screenshot](/src/assets/screenPrints/Patient_import6.png)
+![Dashboard Screenshot](/screenPrints/Patient_Import6.png)
 <br />
 
 - **A.** Result message indicating the status of the import.

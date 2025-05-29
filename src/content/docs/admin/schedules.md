@@ -8,7 +8,7 @@ title: Schedules
 
 ##### Schedule Search:
 
-![Dashboard Screenshot](/src/assets/screenPrints/scheduleSearch.png)
+![Dashboard Screenshot](/screenPrints/ScheduleSearch.png)
 
 - **A.** Schedules can be searched bu location or oganization.
 - **B.** New schedules can be created here. (see below)
@@ -21,7 +21,7 @@ title: Schedules
 ##### Schedule Create / Update:
 ##### Note: a red <b style="color: red;">*</b> indicates a required field that needs to be completed to proceed.
 
-![Dashboard Screenshot](/src/assets/screenPrints/scheduleCreate.png)
+![Dashboard Screenshot](/screenPrints/ScheduleCreate.png)
 
 - **A.** The location of the scheduled event is required.
 - **B.** The length of the event is required as well.

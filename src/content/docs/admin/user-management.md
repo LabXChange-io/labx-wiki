@@ -9,7 +9,7 @@ For information on how to log in, see [Logging In](/logging_in).
 
 ##### User Search:
 
-![Dashboard Screenshot](/src/assets/screenPrints/userManagement.png)
+![Dashboard Screenshot](/screenPrints/userManagement.png)
 
 - **A.** Users can be filtered to Active or Inactive, as well as viewing all.
 - **B.** Search for users by their name or e-mail address.
@@ -20,7 +20,7 @@ For information on how to log in, see [Logging In](/logging_in).
 
 <br />
 
-![Dashboard Screenshot](/src/assets/screenPrints/userManagement2.png)
+![Dashboard Screenshot](/screenPrints/userManagement2.png)
 
 - **E.** The options available in menu E. in the above print.
 
@@ -33,7 +33,7 @@ For information on how to log in, see [Logging In](/logging_in).
 
 ##### Admin Account: Full site admin.
 
-![Dashboard Screenshot](/src/assets/screenPrints/userManagementEditAD.png)
+![Dashboard Screenshot](/screenPrints/userManagementEditAD.png)
 
 - **A.** This is the role, the setting of which defines the rest of the available fields.
 - **B.** Email is required, it ends up being the account username and this address is sent the initial link to sign in and set a password.
@@ -42,18 +42,18 @@ For information on how to log in, see [Logging In](/logging_in).
 - **E.** The create (or update) user button saves all changes.
 
 ##### Client Admin Account: Access to admin options for the specific organization and locations they are assoicated with.
-![Dashboard Screenshot](/src/assets/screenPrints/userManagementEditCA.png)
+![Dashboard Screenshot](/screenPrints/userManagementEditCA.png)
 
 - **A.** A client admin requires the organization and locations they will be admin over to be specified. 
 - **B.** A client admin has the option to have 2FA (2 factor authentication) enforced on their account.
 
 ##### Staff Account: Basic access to patients, orders, results, etc.  No admin access.
-![Dashboard Screenshot](/src/assets/screenPrints/userManagementEditST.png)
+![Dashboard Screenshot](/screenPrints/userManagementEditST.png)
 
 - **A.** Has all the same fields as a client admin account, with the added option to restrict the available results to only those for the provider this user is associated with.
 
 ##### Provider Account: Basic access like a staff account, with the added access to the Sign Orders page where they can sign off on their orders.
-![Dashboard Screenshot](/src/assets/screenPrints/userManagementEditPv.png)
+![Dashboard Screenshot](/screenPrints/userManagementEditPv.png)
 
 - **A.** This has the same input features added as the [Providers page](/admin/providers/), where it takes the NPI and pulls the name and address in.
 - **B.** It also has the same override to manually add the name and address.

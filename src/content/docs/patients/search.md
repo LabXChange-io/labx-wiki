@@ -3,7 +3,7 @@ title: Patient Search
 ---
 
 #### The Patient Records page is where you can search through all your existing patients:
-![Patient Search](/src/assets/screenPrints/Patient_Search.png)
+![Patient Search](/screenPrints/Patient_Search.png)
 
 - **A.** Filter the displayed patients to only Registered or Drafts instead of all.
 - **B.** Filter your results by External ID, First or Last Name, or Date of birth.

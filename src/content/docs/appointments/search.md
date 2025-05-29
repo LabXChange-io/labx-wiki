@@ -8,7 +8,7 @@ title: Appointment Search
 
 ##### Appointment Search:
 
-![Dashboard Screenshot](/src/assets/screenPrints/AptView1.png)
+![Dashboard Screenshot](/screenPrints/aptView1.png)
 
 - **A.** This filter dialog helps limit the searh results to exactly the desired appointments. (see below)
 - **B.** This icon refers to a QR code and opens the [tool for checking in](/appointments/checkin/).
@@ -17,11 +17,11 @@ title: Appointment Search
 - **E.** This opens he work flow to [create a new appointment](/appointments/add_edit/).
 - **F.** This has the options for a specific appointment, such as [quick view](/appointments/details/), cancel, sending a confirmation, or [creating a biometric](/biometrics/add_edit/).
 
-![Dashboard Screenshot](/src/assets/screenPrints/AptViewfltr.png)
+![Dashboard Screenshot](/screenPrints/AptViewfltr.png)
 
 - **A.** This filter allows for appointments with only a specific status. (see below)
 - **B.** This filter can also take a specific date range to pull apointments for.
 
-![Dashboard Screenshot](/src/assets/screenPrints/AptViewfltr2.png)
+![Dashboard Screenshot](/screenPrints/AptViewfltr2.png)
 
 - **A.** These are the available appointment statuses to filter to.

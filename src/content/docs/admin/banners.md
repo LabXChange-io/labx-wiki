@@ -9,7 +9,7 @@ title: Banners
 
 ##### Banner Search:
 
-![Notification Screenshot](/src/assets/screenPrints/bannerSearch.png)
+![Notification Screenshot](/screenPrints/bannerSearch.png)
 
 - **A.** Fuzzy search for a specific Notification title.
 - **B.** Create a new notification. (see below)
@@ -22,7 +22,7 @@ title: Banners
 ##### Banner Create / Update:
 ##### Note: a red <b style="color: red;">*</b> indicates a required field that needs to be completed to proceed.
 
-![Notification Screenshot](/src/assets/screenPrints/bannerCreate.png)
+![Notification Screenshot](/screenPrints/bannerCreate.png)
 
 - **A.** The title is required.
 - **B.** Message is also required.
@@ -36,7 +36,7 @@ title: Banners
 
 ##### This is how a Banner is delivered to the user:
 
-![Notification Screenshot](/src/assets/screenPrints/bannerShowing.png)
+![Notification Screenshot](/screenPrints/bannerShowing.png)
 
 - **A.** The color of the banner reflects the type set when creating it:
     - Info = Blue

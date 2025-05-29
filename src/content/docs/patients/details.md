@@ -5,7 +5,7 @@ title: Patient Details
 
 
 #### The Patient Details page is where you can review all the important details of a specific patient:
-![Patient Search](/src/assets/screenPrints/Patient_Details.png)
+![Patient Search](/screenPrints/Patient_Details.png)
 
 - **A.** Run a check to confirm all the patient demographics are correct.
 - **B.** [Edit the patient](/patients/add_edit/) information.

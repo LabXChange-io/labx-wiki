@@ -4,7 +4,7 @@ title: Results Search
 
 #### The Results page is where you can search through all of the results that have come in for your Organization / Locations.
 
-![Result Search](/src/assets/screenPrints/ResultsSearch.png)
+![Result Search](/screenPrints/ResultsSearch.png)
 
 - **A.** Toggle between showing All results, or only those that are final or partial.
 - **B.** Select all results.
@@ -17,7 +17,7 @@ title: Results Search
 
 <br /><br />
 
-<img src="/src/assets/screenPrints/ResultsSearch2.png" alt="Result Search" width="400px">
+<img src="/screenPrints/ResultsSearch2.png" alt="Result Search" width="400px">
 
 - **A.** Filter the displayed results by a specific status.
 - **B.** Select within this option two dates to filter the displayed results to a specific time range.

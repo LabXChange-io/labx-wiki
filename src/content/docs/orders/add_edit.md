@@ -9,7 +9,7 @@ title: Order Add/Edit
 <hr />
 
 ##### Patient (1/5):
-![Patient Search](/src/assets/screenPrints/Order_Create1.png)
+![Patient Search](/screenPrints/Order_Create1.png)
 
 - **A.** This is the progress bar for the order creation work flow.
 - **B.** The Organization and Location need to be set in the header before the patient can be selected.
@@ -17,7 +17,7 @@ title: Order Add/Edit
 - **D.** Ordering can be canceled at any time during creation.
 - **E.** After a patient has been confirmed, the 'Next' button continues the work flow.
 
-![Patient Search](/src/assets/screenPrints/Order_Create2.png)
+![Patient Search](/screenPrints/Order_Create2.png)
 
 - **A.** This dialog provides a quick view of the selected patient's demographic and insurance information.
 - **B.** This indicator shows whether this patient's demographic information has been verified yet.
@@ -31,7 +31,7 @@ title: Order Add/Edit
 <br /><br />
 
 ##### Order Details (2/5):
-![Patient Search](/src/assets/screenPrints/Order_Create3.png)
+![Patient Search](/screenPrints/Order_Create3.png)
 
 - **A.** Select how the order will be paid for.  If "Insurance" is selected, a Diagnosis Code will be required on the next screen.
 - **B.** Set the date and time of the sample collection - from two weeks in the past to a week in the future.
@@ -49,7 +49,7 @@ title: Order Add/Edit
 <br /><br />
 
 ##### Tests & Provider (3/5):
-![Patient Search](/src/assets/screenPrints/Order_Create4.png)
+![Patient Search](/screenPrints/Order_Create4.png)
 
 - **A.** This field is for an ordering provider, one who has been addedon the [Providers page](/admin/providers/) in the Admin section.
 - **B.** This field is for selecting the individual tests to add to the list for the order.
@@ -60,7 +60,7 @@ title: Order Add/Edit
     - This A.I. matching may be set up at the location level to be required for that location.
 - **F.** This optional box is to list any medications the patient may be taking.
 
-![Patient Search](/src/assets/screenPrints/Order_Create5.png)
+![Patient Search](/screenPrints/Order_Create5.png)
 
 - **A.** The left side list the selected Diagnosis Codes that A.I. matched to the selected tests.
 - **B.** The right side contains any Diagnosis Codes selected that did not match to the tests.
@@ -70,7 +70,7 @@ title: Order Add/Edit
 - **F.** Close will close out the A.I. dialog without making any changes.
 - **G.** Apply Matching will update the selected DX Codes with the A.I. results and then close the dialog.
 
-![Patient Search](/src/assets/screenPrints/Order_Create8.png)
+![Patient Search](/screenPrints/Order_Create8.png)
 
 - **A.** Select any addition Diagnosis Codes to pull into the matching tool.
 - **B.** Confirm selection and close this dialog.
@@ -79,7 +79,7 @@ title: Order Add/Edit
 <br /><br />
 
 ##### AOE Questions (4/5):
-![Patient Search](/src/assets/screenPrints/Order_Create6.png)
+![Patient Search](/screenPrints/Order_Create6.png)
 
 - **A.** In the event the chosen test(s) have no AOEs configured for the location of this order, the label "None" will display here and the workflow will automatically advance right to the 'Review' step.
 - **B.** If AOEs are found, each matching set of AOEs will be displayed in a section, with the title and the test the questions are for in the header.
@@ -89,7 +89,7 @@ title: Order Add/Edit
 <br /><br />
 
 ##### Review (5/5):
-![Patient Search](/src/assets/screenPrints/Order_Create7.png)
+![Patient Search](/screenPrints/Order_Create7.png)
 
 - **A.** At the final review step, all provided data is from the previous steps is listed out for review and confirmation.
 - **B.** Each section has an Edit short cut button if something in that section is wrong and needs to be corrected before the order is placed.
