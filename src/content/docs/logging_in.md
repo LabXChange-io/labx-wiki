@@ -13,12 +13,12 @@ Click the "Sign in" button to be directed to the [LabXchange Login Page](https:/
 <u>Username:</u> The e-mail address that recieved the welcome e-mail<br />
 <u>Password:</u> The password the user set on first login (or what it was changed to later.)<br />
 
-![NLogging in Screenshot](../../assets/screenPrints/login.png)
+![Logging in Screenshot](../../assets/screenPrints/login.png)
 
 
 A user who has forgotten their password can click "Forgot passord?" at the bottom: 
 
-![NPassword reset Screenshot](../../assets/screenPrints/pwreset.png)
+![Password reset Screenshot](../../assets/screenPrints/pwreset.png)
 Entering the e-mail you use for your username will send that e-mail a password reset link, which is like a first time user link, and will allow the user to set a new password.
 
 #### First Steps:
