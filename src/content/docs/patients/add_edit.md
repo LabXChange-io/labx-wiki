@@ -57,4 +57,4 @@ title: Patient Add/Edit
 
 <hr />
 
-After confirmation, the site will automatically redirect to the [Patient Details](../details) for this patient.
+After confirmation, the site will automatically redirect to the [Patient Details](/patients/details/) for this patient.

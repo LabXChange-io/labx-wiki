@@ -3,7 +3,7 @@ title: User Mangement
 ---
 
 #### This is where admins can manage the Users for the Locations and Organizations they are responisble for.
-For information on how to log in, see [Logging In](../logging_in).
+For information on how to log in, see [Logging In](/logging_in).
 
 <hr />
 
