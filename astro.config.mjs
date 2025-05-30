@@ -10,6 +10,8 @@ export default defineConfig({
 			components: {
 				// Override the default `PageTitle` component.
 				PageTitle: './src/components/PageTitle.astro',
+				// Override the default `Social icons` component.
+				SocialIcons: './src/components/SocialIcons.astro',
 			},
 			logo: {
 				src: '/src/assets/LabXChangeLogo.png',
