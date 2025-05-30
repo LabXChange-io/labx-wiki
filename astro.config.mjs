@@ -42,6 +42,7 @@ export default defineConfig({
 					items: [
 						{ label: 'Resources Help', slug: 'resources' },
 						{ label: 'Quick Start Guide', slug: 'resources/quickstart' },
+						{ label: 'Ordering Walk Through', slug: 'resources/walkthrough' },
 						{ label: 'Acronym List', slug: 'resources/acronyms' },
 						{ label: 'Dictionary of Terms', slug: 'resources/dictionary' },
 						{ label: 'FAQ', slug: 'resources/faq' },
