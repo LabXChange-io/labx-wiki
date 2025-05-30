@@ -2,12 +2,15 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 
-
 // https://astro.build/config
 export default defineConfig({
 	integrations: [
 		starlight({
 			title: ' Help Center',
+			components: {
+				// Override the default `PageTitle` component.
+				PageTitle: './src/components/PageTitle.astro',
+			},
 			logo: {
 				src: '/src/assets/LabXChangeLogo.png',
 				alt: 'LabXChange Help Center',
