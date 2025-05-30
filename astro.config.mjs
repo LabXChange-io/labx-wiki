@@ -31,7 +31,8 @@ export default defineConfig({
 						{ label: 'Open LabXChange Portal', link: 'https://order.labxchange.io/auth', attrs: { target: '_blank' } },
 						{ label: 'Logging In', slug: 'logging_in' },
 						{ label: 'Your Dashboard', slug: 'dashboard' },
-						{ label: 'Your Account', slug: 'account' },								
+						{ label: 'Your Account', slug: 'account' },
+						{ label: 'Contact Us', slug: 'contact' },									
 					],
 				},
 				{

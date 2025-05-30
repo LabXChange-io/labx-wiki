@@ -2,6 +2,7 @@
 title: Trouble Shooting
 ---
 ### Trouble Shooting and Tech Support guide: 
+##### To reach out regarding the content in the Help Center, you may use the [Contact Us](/contact/) page.
 
 <b><u>LabXchange - Trouble shooting and Tech Support Information Sheet</u></b>
 <br /><br />
