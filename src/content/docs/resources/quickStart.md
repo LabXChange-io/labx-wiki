@@ -1,4 +1,5 @@
 ---
+tableOfContents: false
 title: Quick Start Guide
 ---
 ### A Quick Start Guide to using LabxChange: 

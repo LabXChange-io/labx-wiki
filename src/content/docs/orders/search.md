@@ -1,6 +1,8 @@
 ---
+tableOfContents:
+  minHeadingLevel: 1
+  maxHeadingLevel: 5
 title: Orders Search
-
 ---
 #### The Orders Records page is where you can search through all your existing Orders:
 ![AddUpPatient](/screenPrints/Order_Search.png)

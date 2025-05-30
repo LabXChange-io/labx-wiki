@@ -1,4 +1,7 @@
 ---
+tableOfContents:
+  minHeadingLevel: 1
+  maxHeadingLevel: 5
 title: Logging In
 ---
 #### The site: [LabXchange Login Page](https://order.labxchange.io/auth)

@@ -1,4 +1,7 @@
 ---
+tableOfContents:
+  minHeadingLevel: 1
+  maxHeadingLevel: 5
 title: Account Options
 ---
 For information on how to log in, see [Logging In](/logging_in).
