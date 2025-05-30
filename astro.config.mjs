@@ -16,11 +16,10 @@ export default defineConfig({
 				alt: 'LabXChange Help Center',
 			},
 			social: [
-				{ icon: 'github', label: 'Check out GitHub', href: 'https://github.com/withastro/starlight'  },
-				{ icon: 'facebook', label: 'Follow us on FaceBook', href: 'https://www.facebook.com/labxchange' },
-				{ icon: 'instagram', label: 'Follow us on Instagram', href: 'https://www.instagram.com/labxchange' },
-				{ icon: 'twitter', label: 'Follow us on Twitter', href: 'https://www.twitter.com/labxchange' },
-				{ icon: 'linkedin', label: 'Join us on Linked In', href: 'https://www.linkedin.com/labxchange' },
+				{ icon: 'facebook', label: 'Follow us on FaceBook', href: 'https://www.facebook.com/profile.php?id=61577097410007' },
+				{ icon: 'instagram', label: 'Follow us on Instagram', href: 'https://www.instagram.com/labxchange.us' },
+				{ icon: 'x.com', label: 'Follow us on X.com', href: 'https://x.com/LabxchangeUs' },
+				{ icon: 'linkedin', label: 'Join us on Linked In', href: 'https://www.linkedin.com/company/labxchange-us' },
 			],
 			sidebar: [
 				{
