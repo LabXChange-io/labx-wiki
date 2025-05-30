@@ -1,4 +1,4 @@
-import { FileIcons } from '../file-tree-icons';
+import { FileIcons } from './file-tree-icons';
 
 export const BuiltInIcons = {
 	'up-caret':
