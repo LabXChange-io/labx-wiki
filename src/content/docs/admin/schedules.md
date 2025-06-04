@@ -10,7 +10,7 @@ title: Schedules
 
 ![Dashboard Screenshot](/screenPrints/ScheduleSearch.png)
 
-- **A.** Schedules can be searched bu location or oganization.
+- **A.** Schedules can be searched by location or oganization.
 - **B.** New schedules can be created here. (see below)
 - **C.** Edit or Archive a Schedule with the options here.
 
