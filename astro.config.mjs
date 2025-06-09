@@ -7,6 +7,7 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: ' Help Center',
+			favicon: '/LXLogo.png', // Path to your favicon file
 			components: {
 				// Override the default `PageTitle` component.
 				PageTitle: './src/components/PageTitle.astro',
