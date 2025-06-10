@@ -14,7 +14,7 @@ description: A Laboratory Space Acronym Reference Sheet
 2FA - 2 Factor Authentication<br /><br />
 270 - Insurance Eligibility Request (EDI)<br /><br />
 276 - Health Insurance Claim Status Request<br /><br />
-277 - Health Insurance Claim Status Response<br /><br />>
+277 - Health Insurance Claim Status Response<br /><br />
 271 - Insurance Eligibility Response (EDI)<br /><br />
 278 - Prior Authorization<br /><br />
 834 - Patient Roster<br /><br />
