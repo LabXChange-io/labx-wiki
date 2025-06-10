@@ -48,4 +48,4 @@ title: Orders FAQ
 
 <br /><br />
 **General Order Questions**
-<img src="/comingSoon.png" alt="New Account Screenshot" style="width:25%;">lky
+<img src="/comingSoon.png" alt="New Account Screenshot" style="width:25%;">
