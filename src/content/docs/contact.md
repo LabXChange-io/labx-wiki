@@ -5,7 +5,7 @@ tableOfContents:
 title: Contact Us
 ---
 
-### This forms on this page are for contacting the LabXChange Team about the content in the Help Center.
+### The forms on this page are for contacting the LabXChange Team about the content in the Help Center.
 
 ##### To get help with the LabXChange Portal itself, please refer to the [Trouble Shooting & Tech Support page](/resources/troubleshooting/).
 
