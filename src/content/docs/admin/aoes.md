@@ -61,9 +61,9 @@ title: AOEs (At Order Entry questions)
 
 ![Dashboard Screenshot](/screenPrints/AOEsEdit3.png)
 
-- **A.** Marking it as a condition sub question means only showing it if the trigger question was answered in a way that requires the sub question.
-- **B.** If it's specified as condition, the comare operator needs to be set.
-- **C.** If it's specified as condition, the expected value for comparion needs to be defined.
+- **A.** Marking it as a conditional sub question means only showing it if the trigger question was answered in a way that requires the sub question.
+- **B.** If it's specified as conditional, the comare operator needs to be set.
+- **C.** If it's specified as conditional, the expected value for the comparison needs to be defined.
 - **D.** The rest of the fields are the same as adding any stand-alone question - details are already available above in the Create/Update section.
 - **E.** This column on the left will give an overview of the heirarchy as it's created. 
 - **F.** The add buttons at the top will add additional questions and sub questions into the heirarchy as it's built out. 

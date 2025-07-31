@@ -14,7 +14,7 @@ title: Rapid Test
 ![Dashboard Screenshot](/screenPrints/rapidTest.png)
 
 - **A.** The specific info for the order to confirm who the results are for.
-- **B.** Set the type of date being put in.
+- **B.** Set the type of data being put in.
 - **C.** Provide the value of the result.
 - **D.** If needed, activate and provide a result status indication.
 - **E.** If needed, activate and include any additional notes.
