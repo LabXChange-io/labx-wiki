@@ -37,11 +37,36 @@ title: AOEs (At Order Entry questions)
 - **H.** One question is required for a list, but additional ones could be removed if necessary.
 - **I.** Certain question types, like this numerical one shown, have the option to enforce limitations on the acceptible data range for the response.
 - **J.** All changes can be confirmed and saved with this button in the lower right.
+- **K.** If a question has an existing hierarchy, there wqill be a 'View Hierarchy" button to view the dialog with all the details of what was set up. (See Below)
+- **L.** The little hamburger icon gives a quick view of the current hierarchy. (See Below)
+- **M.** If no hierarchy has been added, then there will be an "Add Hierarchy" button to open the dialog to set one up. (See Below)
 
 ![Dashboard Screenshot](/screenPrints/AOEsEdit2.png)
 
 - **D.** These are the available 'answer types' to choose from when using option D. in the screen above.
 
+
+<br />
+
+![Dashboard Screenshot](/screenPrints/AOEsEdit4.png)
+
+- **L.** This is the quick view that pops up of an existing hierarchy.
+
+
+<br />
+
+<hr />
+
+##### AOE Hierarchy Create / Edit:
+
+![Dashboard Screenshot](/screenPrints/AOEsEdit3.png)
+
+- **A.** Marking it as a condition sub question means only showing it if the trigger question was answered in a way that requires the sub question.
+- **B.** If it's specified as condition, the comare operator needs to be set.
+- **C.** If it's specified as condition, the expected value for comparion needs to be defined.
+- **D.** The rest of the fields are the same as adding any stand-alone question details are already available above in the Create/Update section.
+- **E.** This column on the left will give an overview of the heirarchy as it's created. 
+- **F.** The add buttons at the top will add additional questions and sub questions into the heirarchy as it's built out. 
 
 <br />
 

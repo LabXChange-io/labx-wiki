@@ -41,6 +41,7 @@ title: Locations
 - **J.** The timezone of the location can be set.
 - **K.** Cancel exits without saving any changes.
 - **L.** Confirm and save changes, creates or updates.
+- **M.** Toggle whether or not this location should use the work flow / steps for ordering or a single page form.
 
 <br />
 

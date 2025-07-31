@@ -23,6 +23,7 @@ export default defineConfig({
 				{ icon: 'instagram', label: 'Follow us on Instagram', href: 'https://www.instagram.com/labxchange.us' },
 				{ icon: 'x.com', label: 'Follow us on X.com', href: 'https://x.com/LabxchangeUs' },
 				{ icon: 'linkedin', label: 'Join us on Linked In', href: 'https://www.linkedin.com/company/labxchange-us' },
+				{ icon: 'laptop', label: 'Visit our corporate site', href: 'https://www.labxchange.us/' },
 			],
 			sidebar: [
 				{

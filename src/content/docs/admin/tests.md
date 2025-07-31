@@ -37,6 +37,7 @@ title: Tests
     - Leaving this blank means the test is available for all locations within the organization.
 - **E.** There are a number of optional detail fields available, sucha s volume, temperature, detail notes, etc.
 - **F.** The button at the bottom saves all changes and creates / updates the test.
+- **G.** The check box at the top indicates whether or not this test is considered a "Rapid test".
 
 <br />
 
