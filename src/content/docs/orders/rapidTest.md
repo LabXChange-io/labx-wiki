@@ -7,7 +7,7 @@ title: Rapid Test
 
 #### This is where orders for Rapid Tests get placed.
 
-##### The 'Rapid Tests' are essentially the same as orders in most respects, and as such, the documentation avaialble for Order already, such as [Search](/orders/search), [Details](/orders/details) and [Add/Edit](/orders/add_edit), can be used almost entirely for these as well.
+##### The 'Rapid Tests' are essentially the same as orders in most respects, and as such, the documentation available for Order already, such as [Search](/orders/search), [Details](/orders/details) and [Add/Edit](/orders/add_edit), can be used almost entirely for these as well.
 
 ##### The primary difference with a rapid test is that it will be a type of test that gives results immediately after it's taken, such as a COVID test, and doesn't need to be sent to a lab for processing. This means an additional action will be available immediately after the order is created and is in "Pending" status - "Add Result" with which the results of the test can immediately be added to the system:
 
