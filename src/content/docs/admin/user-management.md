@@ -63,6 +63,12 @@ For information on how to log in, see [Logging In](/logging_in).
 
 <br />
 
+#### Additional Account Types:
+##### Staff Manager Account:  
+This is an intermediate account level between Staff and Client Admin, to have a manager who can over see the users/accounts for their location(s) but still not have full admin access to the organizations settings.
+##### Billing Account:  
+This is a finance level account, the only real purpose is to give an organizations billing / finance user an easy way to access all uploaded documents / results for the organization from a saingle place for accounting purposes.
+
 <hr />
 
 For information on the user options available to all users, see the [Your Account](/account/) page.

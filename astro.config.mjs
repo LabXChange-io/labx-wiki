@@ -118,6 +118,13 @@ export default defineConfig({
 					],
 				},
 				{
+					label: 'Billing Only',
+					collapsed: true,
+					items: [
+						{ label: 'Document Manager', slug: 'documents/documentmanager' },
+					],
+				},
+				{
 					label: 'Admin',
 					collapsed: true,
 					items: [

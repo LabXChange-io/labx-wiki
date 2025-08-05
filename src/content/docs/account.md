@@ -27,9 +27,11 @@ This is exactly as it sounds, a tool for a user to securely change their passwor
 
 #### Types of accounts:
 - **Staff**: This is the standard user account for all users from all organizations/locations
+- **Staff Manager**: Staff managers have the same asccess as Staff, with added access to manage users and notifications to users within their organizations and locations.
 - **Client Admin**: Client administrators have access to additional settings for, and are responisible for the staff under, their organizations and locations.
 - **Admin**: LabXChange site administrators.
 - **Provider**: Providers have similar access to Staff, with added access to sign off on their orders.
+- **Billing**: Billing is a finance level account to permit an organizations financial team to access all uploaded documents and results for their organizations and locations.
 
 <hr />
 
