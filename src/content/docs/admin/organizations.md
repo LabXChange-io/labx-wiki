@@ -32,6 +32,7 @@ title: Organizations
 - **C.** A custom logo for the organization may be provided.  This will be used around the app when printing or generating PDFs.
 - **D.** The terms of service can also be uploaded for the organization.
 - **E.** This button accepts updates (or creates) and saves all changes.
+- **F.** This option enables being able to upload result PDFs manually for this organization.
 
 <br />
 
