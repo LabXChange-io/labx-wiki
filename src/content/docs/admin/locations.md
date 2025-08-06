@@ -13,12 +13,13 @@ title: Locations
 
 ![Screenshot](/screenPrints/LocSearch.png)
 
-- **A.** Locations can be filtered to Active or Inactive, as well as viewing all.
+- **A.** Locations can be filtered to Active or Inactive, as well as viewing all using the dialog this button opens.
 - **B.** Tabs allow switching between locations and location groups. (see below)
 - **C.** Fuzzy search the locations by name.
 - **D.** Create a new location with this button. (see below)
 - **E.** Import a CSV.  This is the same exact tool as [Patient Import](/patients/import/), only for locations.
 - **F.** Edit, Deactivate, or Archive a Location with the options here.
+- **G.** The currently displayed list of locations (all pages) can be exported using this tool.
 
 <br />
 
