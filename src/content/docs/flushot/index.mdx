@@ -1,0 +1,25 @@
+---
+tableOfContents:
+  minHeadingLevel: 1
+  maxHeadingLevel: 5
+title: Flu Shot
+---
+
+### How can we help you with Flu Shots?
+
+import { Card, CardGrid } from '@astrojs/starlight/components';
+
+<CardGrid stagger>
+	<a href="/flushot/search">
+    <Card title="Search Flu Shot" icon="seti:happenings">
+		Help with searching / finding a flu shot record.
+	</Card></a>	
+	<a href="/flushot/add_edit">
+    <Card title="Add or Edit Flu Shot" icon="pencil">
+		Help with adding or editing a flu shot record.
+	</Card></a>
+	<a href="/flushot/faq">
+    <Card title="Flu Shot FAQ" icon="information">
+		Frequently asked questions about flu shots.
+	</Card></a> 
+</CardGrid>

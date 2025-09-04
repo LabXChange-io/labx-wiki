@@ -7,7 +7,7 @@ title: Biometrics Search
 
 <hr />
 
-#### This is where users can manage the Biometrics that ahve been created for their patients.
+#### This is where users can manage the Biometrics that have been created for their patients.
 
 ![Dashboard Screenshot](/screenPrints/BioSearch.png)
 

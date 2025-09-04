@@ -111,6 +111,16 @@ export default defineConfig({
 					],
 				},
 				{
+					label: 'Flu Shot',
+					collapsed: true,
+					items: [
+						{ label: 'Flu Shot Help', slug: 'flushot' },
+						{ label: 'Flu Shot Search', slug: 'flushot/search' },
+						{ label: 'Flu Shot Add/Edit', slug: 'flushot/add_edit' },
+						{ label: 'Flu Shot FAQ', slug: 'flushot/faq' },
+					],
+				},
+				{
 					label: 'Providers Only',
 					collapsed: true,
 					items: [
