@@ -49,6 +49,15 @@ title: Patient Add/Edit
 
 <hr />
 
+#### AOE Questions:
+![AddUpPatient](/screenPrints/Patient_AddAOE.png)
+
+- **A.** If any patient AOEs have been configured for this organization / location, they will display on this screen, each listed out in a section like this.
+- **B.** Each will have the necessary type of response boxes to answer the AOE questions.
+- **C.** After all questions are answered, the next button continues on to the summary.
+
+<hr />
+
 #### Summary:
 ![AddUpPatient](/screenPrints/Patient_Add4.png)
 
