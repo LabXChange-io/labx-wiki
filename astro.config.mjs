@@ -148,6 +148,7 @@ export default defineConfig({
 						{ label: 'Insurances', slug: 'admin/insurances' },
 						{ label: 'Medications', slug: 'admin/medications' },
 						{ label: 'AOEs', slug: 'admin/aoes' },
+						{ label: 'Consents', slug: 'admin/consents' },
 						{ label: 'User Management', slug: 'admin/user-management' },
 						{ label: 'Notifications', slug: 'admin/notifications' },
 						{ label: 'Custom Forms', slug: 'admin/customforms' },
