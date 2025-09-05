@@ -40,6 +40,10 @@ title: AOEs (At Order Entry questions)
 - **K.** If a question has an existing hierarchy, there wqill be a 'View Hierarchy" button to view the dialog with all the details of what was set up. (See Below)
 - **L.** The little hamburger icon gives a quick view of the current hierarchy. (See Below)
 - **M.** If no hierarchy has been added, then there will be an "Add Hierarchy" button to open the dialog to set one up. (See Below)
+- **N.** The type of AOE being created can be specified:
+    - Patient = AOE's triggered during patient registration for the Organization/Locations specified.
+    - Test = AOE's triggered during ordering if the associated test is ordered for the Organization/Locations specified.
+    - Schedule = AOE's triggered when scheduling an appointment for the Organization/Locations specified.
 
 ![Dashboard Screenshot](/screenPrints/AOEsEdit2.png)
 
