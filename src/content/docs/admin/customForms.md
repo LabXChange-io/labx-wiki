@@ -25,7 +25,13 @@ title: Custom Forms
 
 ![Screenshot](/screenPrints/customForms3.png)
 
-- **A.**  When this feature is enabled, it will allow further ordering page refinement by permitting the optional fields available here to be hidden or shown as desired.
-- **B.** After making any updates to settings, the "Apply Changes" button needs to be clicked to confirm and save the changes.
+- **A.** The module specifies where the custom field you want to manage is located - such as in the Order or Patient work flow. 
+- **B.** Available fields are not in use on a page, but are available to be added if desired.
+- **C.** Selected fields are all the fields that will be displayed in the specified module.
+- **D.** There are search boxes to help locate specific fields in either list.
+- **E.** Some fields are always required and can't be customized, these are denoted on the selected list with * and will be disabled from customizing.
+- **F.** The slider toggle on the selected fields is to specify whether or not the page validation should treat them as required fields.
+- **G.** Custom changes can be discarded by resetting all the settings to their defaults.
+- **H.** After making any updates to settings, the "Apply Changes" button needs to be clicked to confirm and save the changes.
 
 <hr />
