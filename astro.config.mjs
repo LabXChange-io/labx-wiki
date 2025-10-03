@@ -122,6 +122,17 @@ export default defineConfig({
 					],
 				},
 				{
+					label: 'Billing',
+					collapsed: true,
+					items: [
+						{ label: 'Billing Help', slug: 'billing' },
+						{ label: 'Billing Resolution', slug: 'billing/billing_resolution' },
+						{ label: 'Billing Archive', slug: 'billing/archive' },
+						{ label: 'Billing Leaderboard', slug: 'billing/leaderboard' },
+						{ label: 'Billing FAQ', slug: 'billing/faq' },
+					],
+				},
+				{
 					label: 'Providers Only',
 					collapsed: true,
 					items: [
@@ -129,7 +140,7 @@ export default defineConfig({
 					],
 				},
 				{
-					label: 'Billing Only',
+					label: 'Billing User Only',
 					collapsed: true,
 					items: [
 						{ label: 'Document Manager', slug: 'documents/documentmanager' },
